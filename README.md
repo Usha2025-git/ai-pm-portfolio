@@ -152,7 +152,7 @@ cat README.md
 
 ## 📬 Get in Touch
 
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+💼 **LinkedIn:** [linkedin.com/in/ushaswinir-product](https://linkedin.com/in/ushaswinir-product)  
 📧 **Email:** your-email@example.com  
 🐙 **GitHub:** [@Usha2025-git](https://github.com/Usha2025-git)  
 
